@@ -5,7 +5,6 @@ This Python script generates fractal patterns using L-systems and visualizes the
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
 
 ## Overview
 This script allows you to visualize different L-systems using the turtle graphics library. It provides several predefined fractal patterns and allows users to create custom ones by inputting their own axiom and transformation rules.
